@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Penguin Is Awesome</title>
+</head>
+<body>
+<h1>Coming Soon</h1>
+<p>Qi Er</p>
+</body>
+</html>
